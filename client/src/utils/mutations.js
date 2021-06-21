@@ -80,3 +80,4 @@ export const REMOVE_FRIEND = gql`
     }
   }
 `;
+
